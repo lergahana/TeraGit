@@ -1,0 +1,23 @@
+Ono što je prof predložio da se napravi:
+REGISTRACIJA -> svaki korisnik se treba registrirati u sustav
+PRIJAVA -> samo oni koji su se registrirali u sustav mogu se prijaviti s korisnickim imenom i lozinkom
+nakon prijave pojavljuju se 3 opcije za kliknut: TRAŽIM, AGENT I PRODAJEM
+TRAŽIM-> klikom na tražim otvara se forma s nekoliko karakteristika nekretnine koju kupac traži tipa: lokacija, maksimalna cijena, vrta nekretnine(kuća, stan bla bla), površina m2,
+bilo kojih 5 karakteristika nešto tipa ovih koje se mogu pretraživati na https://dogma-nekretnine.com/
+PRODAJEM -> ista forma kao kod TRAŽIM samo ovu ispunjava prodavač nekretnine
+
+kad se kupac ulogira sa korisnickim menom i lozinkom i upiše u pretragu što traži to bi se spremalo u bazu u tablicu POTRAŽNJA
+kad se prodavač ulogira i unese u formu karakteristike nekretnine koju prodaje to se sprema u bazu u PONUDA
+
+AGENT -> on kad se ulogira vidi MATCHING tipa:
+|| kupac X traži to to to i to =>  prodavač Y prodaje to to to i to || -> Jugo je rekao da se može dodati STRENGHT od matcha (ne znam koliko je bitno to dodat ako agent vidi točno što kupac traži i što ovaj prodaje tako da ne znam ako ti se to da dodavati)
+da i kad agent vidi match bilo bi dobro da vidi kontakt broj od o oboje kupca i prodavača i da može u checkboxu označiti KONTAKTIRAN ili USPJEŠNA PRODAJA
+
+Jugo je rekao da moramo dodat minimum 2 eksperimenta na primjer:
+EXP #1 vrijeme boravka na stranici
+ID_KORISIKA | VRIJEME PRIJAVE | VRIJEME ODJAVE | RAZLIKA
+EXP #2 dio agenata ne vidi matching strength dio vidi pa da se tako usporedi broj akcija (tipo stari agenti vide koji rade duže od 2 godine, a novi ne vide ne znam ako ima smisla...)
+
+cijeli ovaj dio s odabirom jezika se moze maknut van i ako imajos koja budalastina u kodu 
+
+ne znam ako ti ovo ima smisla, ovo što ti šaljem sam neke te podatke spremala u txt fajlove a trebala bi bit sql baza, ako ti je too much posla reci please mi ćemo ti sigurno platit jer ima dosta toga, sorry stvarno sto te tlacimo 

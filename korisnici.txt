@@ -1,0 +1,11 @@
+s	s	s	Z	sssss
+a	098	a	a	Z	a
+kosuta.lerga@gmail.com	0981820442	nekretnine	kosuta.lerga@gmail.com	Z	kuća uz more, otoci, Krk po mogućnosti, pogleda na more, 3 sobe, 2 kata, normalni susjedi
+sandra@sorgo.com	098662334	sandra	sandra@sandra.sandra	Z	tražim kuću uz more, velike površine terase, 2 sobe s pogledom na more, malo vrta, imam 3 psa pa mi treba mjesta i papige
+dddd	dddd	dddd	dddd	Z	ovo je nekretnina koju trazim
+www	www	www	www	Z	ovo je opis potraznje koja se trazi
+www	www		www	Z	ovo je opis potraznje koja se trazi
+a	a	a	a	Z	a
+v	v	v	v	Z	vvv
+mm	mm	mm	mm	M	mm
+				Z	
